@@ -14,3 +14,9 @@ Aquí el usuario podrá revisar el estado y disponibilidad de los productos. As�
 
 - **Realizar compra:** 
 Dejará registro de la compra realizada así como de qué usuario realizó la acción (esto lo hará el programa de manera automática).
+
+<br>
+<br>
+
+
+ [Secuencia, planificaion y evaluacion de proyctos](https://campus.europaeducationgroup.es/courses/13497/pages/secuenciacion-planificacion-y-evaluacion-de-proyectos?module_item_id=299624)
