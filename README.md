@@ -19,4 +19,4 @@ Dejará registro de la compra realizada así como de qué usuario realizó la ac
 <br>
 
 
- [Secuencia, planificaion y evaluacion de proyctos](https://campus.europaeducationgroup.es/courses/13497/pages/secuenciacion-planificacion-y-evaluacion-de-proyectos?module_item_id=299624)
+ [Secuencia, planificaion y evaluacion de proyectos](https://campus.europaeducationgroup.es/courses/13497/pages/secuenciacion-planificacion-y-evaluacion-de-proyectos?module_item_id=299624)
