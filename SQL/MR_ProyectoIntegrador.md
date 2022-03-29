@@ -14,11 +14,9 @@ Tipo es obligatorio
 Producto_Medico es obligatorio
 Nombre es obligatorio
 
-Registrar (Id_Usuario,Id_Compra)
-Id_Compra es clave primaria
-Id_Usuario es clave foranea de Usuario
 
-Gestion Stock (Id_Usuario, Id_Producto, Fecha_Gestion, Cantidad)
+
+Gestion_Stock (Id_Usuario, Id_Producto, Fecha_Gestion, Cantidad)
 Id_Usuario, Id_Producto son clave primaria  
 Fecha_Gestion es obligatorio
 Cantidad es obligatorio 
