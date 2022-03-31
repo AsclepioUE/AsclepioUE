@@ -14,8 +14,6 @@ Tipo es obligatorio
 Producto_Medico es obligatorio
 Nombre es obligatorio
 
-
-
 Gestion_Stock (Id_Usuario, Id_Producto, Fecha_Gestion, Cantidad)
 Id_Usuario, Id_Producto son clave primaria  
 Fecha_Gestion es obligatorio
