@@ -7,12 +7,13 @@ Id_compra es clave primaria
 Fecha_Compra es obligatorio
 Importe es obliogatorio
 
-Producto (Id_Producto, Precio, Tipo, Producto_Medico, Nombre)
+Producto (Id_Producto, Precio, Tipo, Producto_Medico, Nombre, Stock)
 Id_Producto es la clave primaria
 Precio es obligatorio
 Tipo es obligatorio
 Producto_Medico es obligatorio
 Nombre es obligatorio
+Stock es obligatorio
 
 Gestion_Stock (Id_Usuario, Id_Producto, Fecha_Gestion, Cantidad)
 Id_Usuario, Id_Producto son clave primaria  
