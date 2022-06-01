@@ -13,7 +13,7 @@ import javax.swing.JTable;
 import java.awt.Color;
 import javax.swing.JButton;
 
-public class VStock extends JPanel{
+public class PStock extends JPanel{
 	
 	static final int ALTO = 600;
 	static final int ANCHO = 950;
@@ -26,13 +26,13 @@ public class VStock extends JPanel{
 	private static final String CANTIDAD = "Cantidad";
 	private static final String REPONER = "Reponer";
 	private DefaultTableModel tModel;
-	private JTextField textField;
+	private JTextField txtBusqueda;
 	private JTable tblStock;
 	private JScrollPane scrollPane;
 	private JButton btnsSalir;
 	private JButton btnVolver;
 	
-	public VStock() {
+	public PStock() {
 		setForeground(Color.BLACK);
 		init();
 	}
@@ -46,11 +46,11 @@ public class VStock extends JPanel{
 		lblStock.setBounds(404, 33, 141, 44);
 		add(lblStock);
 		
-		textField = new JTextField();
-		textField.setFont(new Font("Tahoma", Font.PLAIN, 20));
-		textField.setBounds(226, 109, 459, 35);
-		add(textField);
-		textField.setColumns(10);
+		txtBusqueda = new JTextField();
+		txtBusqueda.setFont(new Font("Tahoma", Font.PLAIN, 20));
+		txtBusqueda.setBounds(226, 109, 459, 35);
+		add(txtBusqueda);
+		txtBusqueda.setColumns(10);
 		
 		JLabel lblBusqueda = new JLabel("Busqueda:");
 		lblBusqueda.setFont(new Font("Tahoma", Font.BOLD, 20));
